@@ -1,6 +1,6 @@
 ---
 name: draft-pr
-description: GitHub のプルリクエストを作成するときは、原則として必ず Draft PR で作成するためのスキル。「PRを作って」「プルリクエストを出して」「PR作成して」「gh pr create して」「変更をPRにして」といった依頼や、作業の締めくくりとしてPRを作る場面、/draft-pr と呼ばれたときに使う。ユーザーが「Draftじゃなくていい」「Ready for review で」「レビュー可能な状態で」など明示的に指示した場合のみ通常の（Ready状態の）PRを作成する。
+description: GitHub のプルリクエストを作成するときは、原則として必ず Draft PR で作成するためのスキル。「PRを作って」「プルリクエストを出して」「PR作成して」「gh pr create して」「変更をPRにして」といった依頼や、作業の締めくくりとしてPRを作る場面、/yothio:draft-pr と呼ばれたときに使う。ユーザーが「Draftじゃなくていい」「Ready for review で」「レビュー可能な状態で」など明示的に指示した場合のみ通常の（Ready状態の）PRを作成する。
 ---
 
 # draft-pr
