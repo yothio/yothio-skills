@@ -1,0 +1,14 @@
+{
+  "name": "yothio-skills",
+  "description": "yothio が個人で育てている Claude Code スキル集",
+  "owner": {
+    "name": "yothio"
+  },
+  "plugins": [
+    {
+      "name": "yothio",
+      "source": "./plugins/yothio",
+      "description": "yothio が個人で育てている Claude Code スキル集"
+    }
+  ]
+}
